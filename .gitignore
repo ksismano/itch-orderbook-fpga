@@ -1,0 +1,16 @@
+vectors/
+__pycache__/
+*.pyc
+# Vivado / simulation
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+xsim.dir/
+*.wdb
+*.vcd
